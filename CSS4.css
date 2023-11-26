@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content:center;
+
+}
+
+.fle
+{
+  
+  width: 700px;
+}
+p
+{
+
+  color: white;
+  background-color:blue;
+  line-height: 1.4em;
+}
